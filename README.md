@@ -1,5 +1,5 @@
-![Uploading image.png…]()
 
+<img width="1915" height="860" alt="Screenshot 2026-02-01 110529" src="https://github.com/user-attachments/assets/3776c6e9-18d8-417a-9763-c50f2322d25f" />
 
 🩸 Blood & Plasma Donation Management System
 
